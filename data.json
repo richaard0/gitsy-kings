@@ -1,0 +1,336 @@
+// Créer une liste JSON d'articles d'épiceries
+// Les articles contiennent :
+// - un nom
+// - un prix
+
+
+//viande
+//articles ménagers
+//pharmacie
+//divers
+
+{
+  "fruits": [
+    {
+      "name": "Pomme",
+      "price": 1.49
+    },
+    {
+      "name": "Poire",
+      "price": 2.49
+    },
+    {
+      "name": "Banane",
+      "price": 3.49
+    },
+    {
+      "name": "Bleuets",
+      "price": 2.99
+    },
+    {
+      "name": "Fraise",
+      "price": 2.99
+    },
+    {
+      "name": "Pêche",
+      "price": 3.99
+    },
+    {
+      "name": "Cerises",
+      "price": 4.99
+    },
+    {
+      "name": "Tomates",
+      "price": 3.49
+    },
+    {
+      "name": "Citron",
+      "price": 1.49
+    },
+    {
+      "name": "Orange",
+      "price": 2.49
+    },
+    {
+      "name": "Pamplemousse",
+      "price": 3.99
+    },
+    {
+      "name": "Mangue",
+      "price": 1.49
+    },
+    {
+      "name": "Kiwi",
+      "price": 2.49
+    },
+    {
+      "name": "Framboises",
+      "price": 3.99
+    },
+    {
+      "name": "Abricots",
+      "price": 2.69
+    },
+    {
+      "name": "Prunes",
+      "price": 3.99
+    }
+  ],
+  "légumes": [
+    {
+      "name": "Carotte",
+      "price": 1.49
+    },
+    {
+      "name": "Poivron Rouge",
+      "price": 0.99
+    },
+    {
+      "name": "Poivron Vert",
+      "price": 1.49
+    },
+    {
+      "name": "Concombre",
+      "price": 0.89
+    },
+    {
+      "name": "Brocoli",
+      "price": 1.49
+    },
+    {
+      "name": "Navet",
+      "price": 1.99
+    },
+    {
+      "name": "Pomme de terre",
+      "price": 0.99
+    },
+    {
+      "name": "Haricots Vert",
+      "price": 1.49
+    },
+    {
+      "name": "Haricots Rouges",
+      "price": 1.99
+    },
+    {
+      "name": "Oignon",
+      "price": 1.49
+    },
+    {
+      "name": "Aubergine",
+      "price": 1.99
+    },
+    {
+      "name": "Chou",
+      "price": 1.49
+    },
+    {
+      "name": "Chou Vert",
+      "price": 1.99
+    },
+    {
+      "name": "Chou Rouge",
+      "price": 1.99
+    },
+    {
+      "name": "Chou Frais",
+      "price": 2.99
+    },
+    {
+      "name": "Chou Blanc",
+      "price": 2.99
+    },
+    {
+      "name": "Pois",
+      "price": 1.99
+    },
+    {
+      "name": "Pois Vert",
+      "price": 2.99
+    },
+    {
+      "name": "Pois Rouge",
+      "price": 2.99
+    },
+    {
+      "name": "Pois Blanc",
+      "price": 2.99
+    },
+    {
+      "name": "Pois de Bruxelles",
+      "price": 2.99
+    }
+  ],
+  "viande": [
+    {
+      "name": "Boeuf haché",
+      "price": 6.99
+    },
+    {
+      "name": "Boeuf",
+      "price": 5.99
+    },
+    {
+      "name": "Porc haché",
+      "price": 6.99
+    },
+    {
+      "name": "Porc",
+      "price": 5.99
+    },
+    {
+      "name": "Filets de porcs",
+      "price": 9.99
+    },
+    {
+      "name": "Poitrines de poulets",
+      "price": 10.99
+    },
+    {
+      "name": "Cuisses de poulets",
+      "price": 10.99
+    },
+    {
+      "name": "Poulet rôti",
+      "price": 13.99
+    }
+  ],
+  "laitier" : [
+    {
+      "name": "Lait",
+      "price": 2.99
+    },
+    {
+      "name": "Yogourt Danone Vanille",
+      "price": 2.99
+    },
+    {
+      "name": "Yogourt Danone Fraises",
+      "price": 2.99
+    },
+    {
+      "name": "Yogourt Danone Citron",
+      "price": 2.99
+    },
+    {
+      "name": "Fromage en tranche Kraft",
+      "price": 3.99
+    },
+    {
+      "name": "Fromage Brie",
+      "price": 10.99
+    },
+    {
+      "name": "Fromage blanc",
+      "price": 3.99
+    }
+  ],
+  "menager" : [
+    {
+      "name": "Windex",
+      "price": 1.99
+    },
+    {
+      "name": "Hertel",
+      "price": 1.99
+    },
+    {
+      "name": "Detergent à lessive",
+      "price": 3.99
+    },
+    {
+      "name": "Détergent à vaisselle",
+      "price": 3.99
+    }
+  ], 
+  "pharmacie" :[
+    {
+      "name" : "Deodorant",
+      "price" : 2.99
+    },
+    {
+      "name" : "Shampooing",
+      "price" : 3.99
+    },
+    {
+      "name" : "Savon",
+      "price" : 4.99
+    },
+    {
+      "name" : "Gel douche",
+      "price" : 5.99
+    },
+    {
+      "name" : "Creme de corps",
+      "price" : 4.99
+    },
+    {
+      "name" : "Creme de rasage",
+      "price" : 5.99
+    },
+    {
+      "name" : "Creme de peau",
+      "price" : 5.99
+    },
+    {
+      "name": "Papier toilette",
+      "price": 1.99
+    }
+  ],
+  "divers": [
+    {
+      "name": "Biscuits Oreo",
+      "price": 1.99
+    },
+    {
+      "name": "Whippets",
+      "price": 1.99
+    },
+    {
+      "name": "Chips Lays BBQ",
+      "price": 1.99
+    },
+    {
+      "name": "Chips Lays Ketchup",
+      "price": 1.99,
+    },
+    {
+      "name": "Pain Baguette",
+      "price": 1.99
+    },
+    {
+      "name": "Chips Doritos",
+      "price": 2.99
+    },
+    {
+      "name": "Chips Fritos",
+      "price": 2.99
+    },
+    {
+      "name": "Chips Cape Cod",
+      "price": 2.99
+    },
+    {
+      "name": "Spaghetti Catelli",
+      "price": 1.49
+    },
+    {
+      "name": "Spaghetti Barilla",
+      "price": 1.99
+    },
+    {
+      "name": "Pizza congelée Delicio",
+      "price": 7.99
+    },
+    {
+      "name": "Pizza congelée Mikes",
+      "price": 8.99
+    },
+    {
+      "name": "Craquelins Triscuit",
+      "price": 1.99
+    }
+    
+  ]
+}
